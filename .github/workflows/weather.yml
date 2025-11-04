@@ -1,0 +1,44 @@
+name: Weather Fetch (every 3 hours)
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # runs at minute 0 every 3 hours (UTC)
+  workflow_dispatch:        # allow manual run
+
+permissions:
+  contents: write           # needed to push CSV/JSON updates
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run weather fetch
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: python weather_fetch.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Only commit when there are file changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add data/
+            git commit -m "Update weather data: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          else
+            echo "No changes to commit."
+          fi
