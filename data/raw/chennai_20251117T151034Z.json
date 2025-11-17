@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "lat": 13.0833,
+    "lon": 80.2833,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1763392260,
+    "localtime": "2025-11-17 20:41"
+  },
+  "current": {
+    "last_updated_epoch": 1763391600,
+    "last_updated": "2025-11-17 20:30",
+    "temp_c": 25.2,
+    "temp_f": 77.4,
+    "is_day": 0,
+    "condition": {
+      "text": "Light drizzle",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/266.png",
+      "code": 1153
+    },
+    "wind_mph": 17.0,
+    "wind_kph": 27.4,
+    "wind_degree": 11,
+    "wind_dir": "NNE",
+    "pressure_mb": 1013.0,
+    "pressure_in": 29.91,
+    "precip_mm": 1.1,
+    "precip_in": 0.04,
+    "humidity": 89,
+    "cloud": 75,
+    "feelslike_c": 27.5,
+    "feelslike_f": 81.5,
+    "windchill_c": 25.4,
+    "windchill_f": 77.6,
+    "heatindex_c": 27.7,
+    "heatindex_f": 81.9,
+    "dewpoint_c": 22.1,
+    "dewpoint_f": 71.8,
+    "vis_km": 2.5,
+    "vis_miles": 1.0,
+    "uv": 0.0,
+    "gust_mph": 24.5,
+    "gust_kph": 39.4,
+    "short_rad": 0,
+    "diff_rad": 0,
+    "dni": 0,
+    "gti": 0
+  }
+}
