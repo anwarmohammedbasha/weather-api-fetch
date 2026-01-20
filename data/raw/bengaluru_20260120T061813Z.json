@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Bengaluru",
+    "region": "Karnataka",
+    "country": "India",
+    "lat": 12.9833,
+    "lon": 77.5833,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1768889894,
+    "localtime": "2026-01-20 11:48"
+  },
+  "current": {
+    "last_updated_epoch": 1768889700,
+    "last_updated": "2026-01-20 11:45",
+    "temp_c": 24.2,
+    "temp_f": 75.6,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 3.8,
+    "wind_kph": 6.1,
+    "wind_degree": 89,
+    "wind_dir": "E",
+    "pressure_mb": 1019.0,
+    "pressure_in": 30.09,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 34,
+    "cloud": 0,
+    "feelslike_c": 24.3,
+    "feelslike_f": 75.7,
+    "windchill_c": 27.1,
+    "windchill_f": 80.8,
+    "heatindex_c": 26.3,
+    "heatindex_f": 79.3,
+    "dewpoint_c": 8.3,
+    "dewpoint_f": 46.9,
+    "vis_km": 6.0,
+    "vis_miles": 3.0,
+    "uv": 9.2,
+    "gust_mph": 4.4,
+    "gust_kph": 7.1
+  }
+}
