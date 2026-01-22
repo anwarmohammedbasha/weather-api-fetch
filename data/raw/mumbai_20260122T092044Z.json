@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "lat": 18.975,
+    "lon": 72.826,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1769073645,
+    "localtime": "2026-01-22 14:50"
+  },
+  "current": {
+    "last_updated_epoch": 1769073300,
+    "last_updated": "2026-01-22 14:45",
+    "temp_c": 30.2,
+    "temp_f": 86.4,
+    "is_day": 1,
+    "condition": {
+      "text": "Overcast",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/122.png",
+      "code": 1009
+    },
+    "wind_mph": 9.4,
+    "wind_kph": 15.1,
+    "wind_degree": 273,
+    "wind_dir": "W",
+    "pressure_mb": 1013.0,
+    "pressure_in": 29.91,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 38,
+    "cloud": 0,
+    "feelslike_c": 32.6,
+    "feelslike_f": 90.6,
+    "windchill_c": 25.3,
+    "windchill_f": 77.6,
+    "heatindex_c": 26.3,
+    "heatindex_f": 79.3,
+    "dewpoint_c": 15.6,
+    "dewpoint_f": 60.1,
+    "vis_km": 2.1,
+    "vis_miles": 1.0,
+    "uv": 5.0,
+    "gust_mph": 13.4,
+    "gust_kph": 21.6
+  }
+}
