@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Delhi",
+    "region": "Ontario",
+    "country": "Canada",
+    "lat": 42.85,
+    "lon": -80.5,
+    "tz_id": "America/Toronto",
+    "localtime_epoch": 1769314128,
+    "localtime": "2026-01-24 23:08"
+  },
+  "current": {
+    "last_updated_epoch": 1769313600,
+    "last_updated": "2026-01-24 23:00",
+    "temp_c": -14.4,
+    "temp_f": 6.1,
+    "is_day": 0,
+    "condition": {
+      "text": "Clear",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+      "code": 1000
+    },
+    "wind_mph": 5.4,
+    "wind_kph": 8.6,
+    "wind_degree": 56,
+    "wind_dir": "ENE",
+    "pressure_mb": 1037.0,
+    "pressure_in": 30.62,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 62,
+    "cloud": 0,
+    "feelslike_c": -20.0,
+    "feelslike_f": -3.9,
+    "windchill_c": -19.6,
+    "windchill_f": -3.3,
+    "heatindex_c": -13.8,
+    "heatindex_f": 7.1,
+    "dewpoint_c": -21.0,
+    "dewpoint_f": -5.8,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.0,
+    "gust_mph": 8.1,
+    "gust_kph": 13.0
+  }
+}
