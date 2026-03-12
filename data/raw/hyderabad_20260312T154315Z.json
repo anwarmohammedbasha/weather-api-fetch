@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "lat": 17.3753,
+    "lon": 78.4744,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1773330197,
+    "localtime": "2026-03-12 21:13"
+  },
+  "current": {
+    "last_updated_epoch": 1773329400,
+    "last_updated": "2026-03-12 21:00",
+    "temp_c": 31.0,
+    "temp_f": 87.8,
+    "is_day": 0,
+    "condition": {
+      "text": "Mist",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+      "code": 1030
+    },
+    "wind_mph": 4.9,
+    "wind_kph": 7.9,
+    "wind_degree": 137,
+    "wind_dir": "SE",
+    "pressure_mb": 1013.0,
+    "pressure_in": 29.91,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 29,
+    "cloud": 0,
+    "feelslike_c": 28.8,
+    "feelslike_f": 83.8,
+    "windchill_c": 27.9,
+    "windchill_f": 82.1,
+    "heatindex_c": 25.9,
+    "heatindex_f": 78.6,
+    "dewpoint_c": 0.4,
+    "dewpoint_f": 32.7,
+    "vis_km": 5.0,
+    "vis_miles": 3.0,
+    "uv": 0.0,
+    "gust_mph": 10.3,
+    "gust_kph": 16.6
+  }
+}
