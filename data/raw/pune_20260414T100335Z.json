@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "lat": 18.5333,
+    "lon": 73.8667,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1776160999,
+    "localtime": "2026-04-14 15:33"
+  },
+  "current": {
+    "last_updated_epoch": 1776160800,
+    "last_updated": "2026-04-14 15:30",
+    "temp_c": 39.3,
+    "temp_f": 102.7,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 5.4,
+    "wind_kph": 8.6,
+    "wind_degree": 305,
+    "wind_dir": "NW",
+    "pressure_mb": 1006.0,
+    "pressure_in": 29.71,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 11,
+    "cloud": 0,
+    "feelslike_c": 38.8,
+    "feelslike_f": 101.9,
+    "windchill_c": 39.2,
+    "windchill_f": 102.7,
+    "heatindex_c": 38.8,
+    "heatindex_f": 101.9,
+    "dewpoint_c": 3.3,
+    "dewpoint_f": 38.0,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 5.5,
+    "gust_mph": 6.2,
+    "gust_kph": 9.9
+  }
+}
