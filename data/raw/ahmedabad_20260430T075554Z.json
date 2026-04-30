@@ -1,0 +1,47 @@
+{
+  "location": {
+    "name": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "lat": 23.0333,
+    "lon": 72.6167,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1777535755,
+    "localtime": "2026-04-30 13:25"
+  },
+  "current": {
+    "last_updated_epoch": 1777535100,
+    "last_updated": "2026-04-30 13:15",
+    "temp_c": 36.3,
+    "temp_f": 97.3,
+    "is_day": 1,
+    "condition": {
+      "text": "Sunny",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "code": 1000
+    },
+    "wind_mph": 13.0,
+    "wind_kph": 20.9,
+    "wind_degree": 242,
+    "wind_dir": "WSW",
+    "pressure_mb": 1005.0,
+    "pressure_in": 29.68,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 29,
+    "cloud": 0,
+    "feelslike_c": 34.8,
+    "feelslike_f": 94.6,
+    "windchill_c": 41.7,
+    "windchill_f": 107.0,
+    "heatindex_c": 42.4,
+    "heatindex_f": 108.4,
+    "dewpoint_c": 9.4,
+    "dewpoint_f": 48.9,
+    "vis_km": 5.0,
+    "vis_miles": 3.0,
+    "uv": 10.5,
+    "gust_mph": 14.9,
+    "gust_kph": 24.0
+  }
+}
