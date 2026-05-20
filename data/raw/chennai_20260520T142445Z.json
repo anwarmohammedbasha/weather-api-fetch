@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Chennai",
+    "region": "Tamil Nadu",
+    "country": "India",
+    "lat": 13.0833,
+    "lon": 80.2833,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1779287095,
+    "localtime": "2026-05-20 19:54"
+  },
+  "current": {
+    "last_updated_epoch": 1779286500,
+    "last_updated": "2026-05-20 19:45",
+    "temp_c": 33.3,
+    "temp_f": 91.9,
+    "is_day": 0,
+    "condition": {
+      "text": "Patchy light drizzle",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/263.png",
+      "code": 1150
+    },
+    "wind_mph": 12.3,
+    "wind_kph": 19.8,
+    "wind_degree": 271,
+    "wind_dir": "W",
+    "pressure_mb": 1003.0,
+    "pressure_in": 29.61,
+    "precip_mm": 0.28,
+    "precip_in": 0.01,
+    "humidity": 53,
+    "cloud": 88,
+    "feelslike_c": 38.3,
+    "feelslike_f": 100.9,
+    "windchill_c": 33.3,
+    "windchill_f": 91.9,
+    "heatindex_c": 38.3,
+    "heatindex_f": 100.9,
+    "dewpoint_c": 22.5,
+    "dewpoint_f": 72.4,
+    "vis_km": 5.0,
+    "vis_miles": 3.0,
+    "uv": 0.0,
+    "gust_mph": 19.8,
+    "gust_kph": 31.9,
+    "will_it_rain": 1,
+    "chance_of_rain": 100,
+    "will_it_snow": 0,
+    "chance_of_snow": 0
+  }
+}
