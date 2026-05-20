@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "lat": 18.975,
+    "lon": 72.826,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1779307042,
+    "localtime": "2026-05-21 01:27"
+  },
+  "current": {
+    "last_updated_epoch": 1779306300,
+    "last_updated": "2026-05-21 01:15",
+    "temp_c": 29.1,
+    "temp_f": 84.3,
+    "is_day": 0,
+    "condition": {
+      "text": "Thundery outbreaks in nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/200.png",
+      "code": 1087
+    },
+    "wind_mph": 12.5,
+    "wind_kph": 20.2,
+    "wind_degree": 240,
+    "wind_dir": "WSW",
+    "pressure_mb": 1007.0,
+    "pressure_in": 29.73,
+    "precip_mm": 0.09,
+    "precip_in": 0.0,
+    "humidity": 82,
+    "cloud": 71,
+    "feelslike_c": 35.2,
+    "feelslike_f": 95.4,
+    "windchill_c": 29.1,
+    "windchill_f": 84.3,
+    "heatindex_c": 35.2,
+    "heatindex_f": 95.4,
+    "dewpoint_c": 25.7,
+    "dewpoint_f": 78.2,
+    "vis_km": 9.0,
+    "vis_miles": 5.0,
+    "uv": 0.0,
+    "gust_mph": 17.1,
+    "gust_kph": 27.5,
+    "will_it_rain": 1,
+    "chance_of_rain": 100,
+    "will_it_snow": 0,
+    "chance_of_snow": 0
+  }
+}
