@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Kolkata",
+    "region": "West Bengal",
+    "country": "India",
+    "lat": 22.5697,
+    "lon": 88.3697,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1779414855,
+    "localtime": "2026-05-22 07:24"
+  },
+  "current": {
+    "last_updated_epoch": 1779414300,
+    "last_updated": "2026-05-22 07:15",
+    "temp_c": 31.0,
+    "temp_f": 87.8,
+    "is_day": 1,
+    "condition": {
+      "text": "Mist",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/143.png",
+      "code": 1030
+    },
+    "wind_mph": 17.9,
+    "wind_kph": 28.8,
+    "wind_degree": 179,
+    "wind_dir": "S",
+    "pressure_mb": 1004.0,
+    "pressure_in": 29.65,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 89,
+    "cloud": 50,
+    "feelslike_c": 35.6,
+    "feelslike_f": 96.0,
+    "windchill_c": 32.6,
+    "windchill_f": 90.7,
+    "heatindex_c": 39.4,
+    "heatindex_f": 102.9,
+    "dewpoint_c": 24.5,
+    "dewpoint_f": 76.0,
+    "vis_km": 2.8,
+    "vis_miles": 1.0,
+    "uv": 8.0,
+    "gust_mph": 20.6,
+    "gust_kph": 33.1,
+    "will_it_rain": 0,
+    "chance_of_rain": 0,
+    "will_it_snow": 0,
+    "chance_of_snow": 0
+  }
+}
