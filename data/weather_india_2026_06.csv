@@ -1,0 +1,9 @@
+ts_utc,city,lat,lon,temp_c,feelslike_c,condition_text,humidity,wind_kph,wind_dir,pressure_mb,precip_mm,cloud,uv,is_day
+2026-06-01T02:07:35Z,Chennai,13.0833,80.2833,30.2,33.1,Moderate rain at times,58,16.2,WSW,1009.0,0.57,73,1.1,1
+2026-06-01T02:07:35Z,Mumbai,18.975,72.826,30.2,35.6,Patchy rain nearby,70,18.4,SSW,1010.0,0.01,70,0.7,1
+2026-06-01T02:07:35Z,Delhi,42.85,-80.5,13.5,12.5,Clear,74,12.6,W,1015.0,0.0,0,0.0,0
+2026-06-01T02:07:36Z,Bengaluru,12.9833,77.5833,23.7,25.4,Partly Cloudy,66,10.4,W,1012.0,0.0,47,0.6,1
+2026-06-01T02:07:36Z,Kolkata,22.5697,88.3697,31.8,38.1,Thundery outbreaks in nearby,65,17.3,SSW,1008.0,0.0,42,1.8,1
+2026-06-01T02:07:36Z,Hyderabad,17.3753,78.4744,30.3,30.5,Mist,43,24.8,NW,1012.0,0.0,75,1.0,1
+2026-06-01T02:07:37Z,Pune,18.5333,73.8667,25.7,27.4,Sunny,68,16.9,W,1012.0,0.0,0,0.8,1
+2026-06-01T02:07:37Z,Ahmedabad,23.0333,72.6167,30.6,34.1,Sunny,59,16.9,SW,1009.0,0.0,8,0.7,1
