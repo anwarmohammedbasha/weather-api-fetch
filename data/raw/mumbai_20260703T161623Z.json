@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Mumbai",
+    "region": "Maharashtra",
+    "country": "India",
+    "lat": 18.975,
+    "lon": 72.826,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1783095383,
+    "localtime": "2026-07-03 21:46"
+  },
+  "current": {
+    "last_updated_epoch": 1783094400,
+    "last_updated": "2026-07-03 21:30",
+    "temp_c": 26.0,
+    "temp_f": 78.8,
+    "is_day": 0,
+    "condition": {
+      "text": "Light rain",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/296.png",
+      "code": 1183
+    },
+    "wind_mph": 16.3,
+    "wind_kph": 26.3,
+    "wind_degree": 279,
+    "wind_dir": "W",
+    "pressure_mb": 1005.0,
+    "pressure_in": 29.68,
+    "precip_mm": 1.81,
+    "precip_in": 0.07,
+    "humidity": 94,
+    "cloud": 100,
+    "feelslike_c": 29.1,
+    "feelslike_f": 84.4,
+    "windchill_c": 27.0,
+    "windchill_f": 80.7,
+    "heatindex_c": 31.2,
+    "heatindex_f": 88.1,
+    "dewpoint_c": 24.6,
+    "dewpoint_f": 76.2,
+    "vis_km": 2.2,
+    "vis_miles": 1.0,
+    "uv": 0.0,
+    "gust_mph": 32.0,
+    "gust_kph": 51.5,
+    "will_it_rain": 1,
+    "chance_of_rain": 76,
+    "will_it_snow": 0,
+    "chance_of_snow": 0
+  }
+}
