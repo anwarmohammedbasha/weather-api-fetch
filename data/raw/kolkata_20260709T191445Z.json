@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Kolkata",
+    "region": "West Bengal",
+    "country": "India",
+    "lat": 22.5697,
+    "lon": 88.3697,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1783624484,
+    "localtime": "2026-07-10 00:44"
+  },
+  "current": {
+    "last_updated_epoch": 1783623600,
+    "last_updated": "2026-07-10 00:30",
+    "temp_c": 27.1,
+    "temp_f": 80.8,
+    "is_day": 0,
+    "condition": {
+      "text": "Patchy light rain with thunder",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/386.png",
+      "code": 1273
+    },
+    "wind_mph": 11.0,
+    "wind_kph": 17.6,
+    "wind_degree": 218,
+    "wind_dir": "SW",
+    "pressure_mb": 1001.0,
+    "pressure_in": 29.56,
+    "precip_mm": 1.34,
+    "precip_in": 0.05,
+    "humidity": 100,
+    "cloud": 100,
+    "feelslike_c": 31.2,
+    "feelslike_f": 88.1,
+    "windchill_c": 27.3,
+    "windchill_f": 81.2,
+    "heatindex_c": 31.7,
+    "heatindex_f": 89.0,
+    "dewpoint_c": 24.6,
+    "dewpoint_f": 76.4,
+    "vis_km": 2.4,
+    "vis_miles": 1.0,
+    "uv": 0.0,
+    "gust_mph": 18.8,
+    "gust_kph": 30.3,
+    "will_it_rain": 0,
+    "chance_of_rain": 66,
+    "will_it_snow": 0,
+    "chance_of_snow": 0
+  }
+}
