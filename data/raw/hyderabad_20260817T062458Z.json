@@ -1,0 +1,53 @@
+{
+  "location": {
+    "name": "Hyderabad",
+    "region": "Telangana",
+    "country": "India",
+    "lat": 17.3753,
+    "lon": 78.4744,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1786947898,
+    "localtime": "2026-08-17 11:54"
+  },
+  "current": {
+    "last_updated_epoch": 1786947300,
+    "last_updated": "2026-08-17 11:45",
+    "temp_c": 20.9,
+    "temp_f": 69.6,
+    "is_day": 1,
+    "condition": {
+      "text": "Patchy rain nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+      "code": 1063
+    },
+    "wind_mph": 19.9,
+    "wind_kph": 32.0,
+    "wind_degree": 130,
+    "wind_dir": "SE",
+    "pressure_mb": 1021.0,
+    "pressure_in": 30.14,
+    "precip_mm": 0.01,
+    "precip_in": 0.0,
+    "humidity": 72,
+    "cloud": 82,
+    "feelslike_c": 16.6,
+    "feelslike_f": 61.9,
+    "windchill_c": 20.9,
+    "windchill_f": 69.6,
+    "heatindex_c": 20.9,
+    "heatindex_f": 69.6,
+    "dewpoint_c": 15.8,
+    "dewpoint_f": 60.4,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 11.1,
+    "gust_mph": 31.1,
+    "gust_kph": 50.0,
+    "will_it_rain": 0,
+    "chance_of_rain": 16,
+    "will_it_snow": 0,
+    "chance_of_snow": 0,
+    "wetbulb_c": 17.6,
+    "wetbulb_f": 63.7
+  }
+}
