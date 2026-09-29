@@ -1,0 +1,53 @@
+{
+  "location": {
+    "name": "Ahmedabad",
+    "region": "Gujarat",
+    "country": "India",
+    "lat": 23.0333,
+    "lon": 72.6167,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1790701464,
+    "localtime": "2026-09-29 22:34"
+  },
+  "current": {
+    "last_updated_epoch": 1790700300,
+    "last_updated": "2026-09-29 22:15",
+    "temp_c": 29.6,
+    "temp_f": 85.2,
+    "is_day": 0,
+    "condition": {
+      "text": "Smoky haze",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/149.png",
+      "code": 1036
+    },
+    "wind_mph": 5.4,
+    "wind_kph": 8.6,
+    "wind_degree": 27,
+    "wind_dir": "NNE",
+    "pressure_mb": 1012.0,
+    "pressure_in": 29.89,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 47,
+    "cloud": 0,
+    "feelslike_c": 30.0,
+    "feelslike_f": 86.0,
+    "windchill_c": 29.5,
+    "windchill_f": 85.2,
+    "heatindex_c": 30.4,
+    "heatindex_f": 86.7,
+    "dewpoint_c": 17.0,
+    "dewpoint_f": 62.6,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.0,
+    "gust_mph": 6.7,
+    "gust_kph": 10.8,
+    "will_it_rain": 0,
+    "chance_of_rain": 1,
+    "will_it_snow": 0,
+    "chance_of_snow": 0,
+    "wetbulb_c": 21.1,
+    "wetbulb_f": 70.0
+  }
+}
