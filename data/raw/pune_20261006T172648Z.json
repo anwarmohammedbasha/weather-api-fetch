@@ -1,0 +1,53 @@
+{
+  "location": {
+    "name": "Pune",
+    "region": "Maharashtra",
+    "country": "India",
+    "lat": 18.5333,
+    "lon": 73.8667,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1791307608,
+    "localtime": "2026-10-06 22:56"
+  },
+  "current": {
+    "last_updated_epoch": 1791306900,
+    "last_updated": "2026-10-06 22:45",
+    "temp_c": 22.2,
+    "temp_f": 71.9,
+    "is_day": 0,
+    "condition": {
+      "text": "Smoky haze",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/149.png",
+      "code": 1036
+    },
+    "wind_mph": 3.6,
+    "wind_kph": 5.8,
+    "wind_degree": 295,
+    "wind_dir": "WNW",
+    "pressure_mb": 1015.0,
+    "pressure_in": 29.97,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 89,
+    "cloud": 0,
+    "feelslike_c": 24.9,
+    "feelslike_f": 76.8,
+    "windchill_c": 22.2,
+    "windchill_f": 71.9,
+    "heatindex_c": 24.6,
+    "heatindex_f": 76.3,
+    "dewpoint_c": 20.3,
+    "dewpoint_f": 68.6,
+    "vis_km": 3.4,
+    "vis_miles": 2.0,
+    "uv": 0.0,
+    "gust_mph": 3.9,
+    "gust_kph": 6.2,
+    "will_it_rain": 0,
+    "chance_of_rain": 13,
+    "will_it_snow": 0,
+    "chance_of_snow": 0,
+    "wetbulb_c": 20.9,
+    "wetbulb_f": 69.6
+  }
+}
