@@ -1,0 +1,9 @@
+ts_utc,city,lat,lon,temp_c,feelslike_c,condition_text,humidity,wind_kph,wind_dir,pressure_mb,precip_mm,cloud,uv,is_day
+2026-11-01T02:43:09Z,Chennai,13.0833,80.2833,28.2,31.7,Patchy rain nearby,75,6.5,NNW,1014.0,0.11,68,2.0,1
+2026-11-01T02:43:10Z,Mumbai,18.975,72.826,27.7,30.7,Patchy rain nearby,75,14.0,NE,1014.0,0.09,81,0.8,1
+2026-11-01T02:43:10Z,Delhi,42.85,-80.5,8.4,6.4,Overcast,80,4.7,S,1032.0,0.0,100,0.0,0
+2026-11-01T02:43:10Z,Bengaluru,12.9833,77.5833,23.2,24.5,Patchy rain nearby,77,9.4,ESE,1016.0,0.09,80,1.8,1
+2026-11-01T02:43:11Z,Kolkata,22.5697,88.3697,27.6,30.9,Sunny,78,5.0,N,1016.0,0.0,7,2.5,1
+2026-11-01T02:43:11Z,Hyderabad,17.3753,78.4744,25.4,27.4,Patchy rain nearby,78,11.2,ESE,1016.0,0.03,64,1.6,1
+2026-11-01T02:43:12Z,Pune,18.5333,73.8667,23.9,25.8,Patchy rain nearby,77,8.6,E,1017.0,0.04,60,1.0,1
+2026-11-01T02:43:12Z,Ahmedabad,23.0333,72.6167,26.2,26.8,Sunny,59,11.9,ENE,1017.0,0.0,0,0.8,1
