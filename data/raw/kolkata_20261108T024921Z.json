@@ -1,0 +1,53 @@
+{
+  "location": {
+    "name": "Kolkata",
+    "region": "West Bengal",
+    "country": "India",
+    "lat": 22.5697,
+    "lon": 88.3697,
+    "tz_id": "Asia/Kolkata",
+    "localtime_epoch": 1794106161,
+    "localtime": "2026-11-08 08:19"
+  },
+  "current": {
+    "last_updated_epoch": 1794105000,
+    "last_updated": "2026-11-08 08:00",
+    "temp_c": 25.6,
+    "temp_f": 78.0,
+    "is_day": 1,
+    "condition": {
+      "text": "Partly Cloudy",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+      "code": 1003
+    },
+    "wind_mph": 4.7,
+    "wind_kph": 7.6,
+    "wind_degree": 10,
+    "wind_dir": "N",
+    "pressure_mb": 1017.0,
+    "pressure_in": 30.02,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 63,
+    "cloud": 40,
+    "feelslike_c": 26.8,
+    "feelslike_f": 80.2,
+    "windchill_c": 25.6,
+    "windchill_f": 78.0,
+    "heatindex_c": 26.9,
+    "heatindex_f": 80.4,
+    "dewpoint_c": 18.1,
+    "dewpoint_f": 64.5,
+    "vis_km": 5.2,
+    "vis_miles": 3.0,
+    "uv": 2.0,
+    "gust_mph": 9.6,
+    "gust_kph": 15.5,
+    "will_it_rain": 0,
+    "chance_of_rain": 7,
+    "will_it_snow": 0,
+    "chance_of_snow": 0,
+    "wetbulb_c": 20.5,
+    "wetbulb_f": 68.9
+  }
+}
