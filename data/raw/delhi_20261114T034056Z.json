@@ -1,0 +1,53 @@
+{
+  "location": {
+    "name": "Delhi",
+    "region": "Ontario",
+    "country": "Canada",
+    "lat": 42.85,
+    "lon": -80.5,
+    "tz_id": "America/Toronto",
+    "localtime_epoch": 1794627656,
+    "localtime": "2026-11-13 22:40"
+  },
+  "current": {
+    "last_updated_epoch": 1794627000,
+    "last_updated": "2026-11-13 22:30",
+    "temp_c": 0.1,
+    "temp_f": 32.1,
+    "is_day": 0,
+    "condition": {
+      "text": "Partly Cloudy",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+      "code": 1003
+    },
+    "wind_mph": 6.5,
+    "wind_kph": 10.4,
+    "wind_degree": 318,
+    "wind_dir": "NW",
+    "pressure_mb": 1013.0,
+    "pressure_in": 29.91,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 81,
+    "cloud": 57,
+    "feelslike_c": -3.3,
+    "feelslike_f": 26.1,
+    "windchill_c": -3.3,
+    "windchill_f": 26.0,
+    "heatindex_c": 0.1,
+    "heatindex_f": 32.1,
+    "dewpoint_c": -2.8,
+    "dewpoint_f": 26.9,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.0,
+    "gust_mph": 14.3,
+    "gust_kph": 23.0,
+    "will_it_rain": 0,
+    "chance_of_rain": 16,
+    "will_it_snow": 0,
+    "chance_of_snow": 17,
+    "wetbulb_c": -1.0,
+    "wetbulb_f": 30.2
+  }
+}
